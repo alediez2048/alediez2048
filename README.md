@@ -44,7 +44,7 @@
 </div>
 
 <h2 align="center" style="font-family: 'Inter', sans-serif; color: #58a6ff; margin-top: 40px;">💼 Skills & Tools</h2>
-
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
 <p align="center" style="margin-bottom: 20px;">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" style="margin-right: 10px;">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" style="margin-right: 10px;">
@@ -93,6 +93,7 @@
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></a>
   </p>
 </details>
+</div>
 
 <h2 align="center" style="font-family: 'Inter', sans-serif; color: #58a6ff; margin-top: 40px;">📊 GitHub Stats</h2>
 
