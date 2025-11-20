@@ -1,103 +1,100 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alediez2048/alediez2048/main/assets/header.png" width="100%" alt="Header Image">
+<div align="center" style="background-color: #0d1117; border-radius: 10px; padding: 20px; margin-bottom: 20px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+  <h1 style="font-family: 'Inter', sans-serif; color: #58a6ff; margin-bottom: 10px;">
+    Hello, I'm Jorge Alejandro Diez
+  </h1>
+  
+  <p style="font-family: 'Poppins', sans-serif; font-size: 18px; color: #58a6ff; margin-bottom: 20px;">
+    Web Developer | AI Enthusiast | Data Visualization Specialist
+  </p>
+  
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+    <a href="https://twitter.com/jalejandrodiez" target="_blank">Twitter</a>
+    <a href="https://www.linkedin.com/in/jalejandrodiez/" target="_blank">LinkedIn</a>
+    <a href="https://www.jorgealejandrodiez.com" target="_blank">Website</a>
+    <a href="https://github.com/alediez2048" target="_blank">GitHub</a>
+  </div>
+
+  <h2 style="font-family: 'Inter', sans-serif; color: #58a6ff; margin-bottom: 20px;">🚀 About Me</h2>
+  
+  <p style="font-family: 'Poppins', sans-serif; max-width: 600px; margin: 0 auto 20px; line-height: 1.6; color: #c9d1d9;">
+    I'm a passionate web developer early in my career, driven by a commitment to excellence and innovation. My journey has been shaped by collaborations with exceptional engineers, data analysts, and project managers who have set high standards for building, launching, and maintaining web applications.
+  </p>
+  
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; text-align: left;">
+    <div style="display: flex; align-items: center;">
+      <span style="font-family: 'Poppins', sans-serif; color: #c9d1d9;">Working on <strong style="color: #58a6ff;">AI Object Detection Model for Football</strong></span>
+    </div>
+    <div style="display: flex; align-items: center;">
+      <span style="font-family: 'Poppins', sans-serif; color: #c9d1d9;">Learning <strong style="color: #58a6ff;">AI, Data Science, Data Visualization</strong></span>
+    </div>
+    <div style="display: flex; align-items: center;">
+      <span style="font-family: 'Poppins', sans-serif; color: #c9d1d9;">Collaborating on <strong style="color: #58a6ff;">AI & Data Science Projects</strong></span>
+    </div>
+    <div style="display: flex; align-items: center;">
+      <span style="font-family: 'Poppins', sans-serif; color: #c9d1d9;">Writing on <a href="https://www.jorgealejandrodiez.com/blog" target="_blank" style="color: #58a6ff; text-decoration: none;">my blog</a></span>
+    </div>
+  </div>
+</div>
+
+<h2 align="center" style="font-family: 'Inter', sans-serif; color: #58a6ff; margin-top: 40px;">💼 Skills & Tools</h2>
+
+<p align="center" style="margin-bottom: 20px;">
+  AWS • React • Vue.js • JavaScript • Python • Docker • TensorFlow
 </p>
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/alediez2048/alediez2048/main/assets/wave.gif" width="30">
-  Hello, I'm Jorge Alejandro Diez
-</h1>
+<details>
+  <summary style="cursor: pointer; font-family: 'Inter', sans-serif; color: #58a6ff; text-align: center; font-size: 16px; margin-bottom: 20px;">🛠 View full list of technologies and tools</summary>
+  <p align="center" style="margin-top: 20px;">
+    AWS, Babel, Bootstrap, Chart.js, CSS3, D3.js, Docker, Ember, Figma, Gatsby, GraphQL, Gulp, HTML5, Hugo, JavaScript, Jekyll, MongoDB, MySQL, Node.js, Pandas, PostgreSQL, PyTorch, React, React Native, Redux, Ruby, Sass, Sketch, TensorFlow, Unity, Vue.js, Vuetify, Webpack
+  </p>
+</details>
 
-<p align="center">
-  Web Developer • AI Enthusiast • Data Visualization Specialist
+<h2 align="center" style="font-family: 'Inter', sans-serif; color: #58a6ff; margin-top: 40px;">📊 GitHub Stats</h2>
+
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <p>GitHub username: <strong>alediez2048</strong></p>
+</div>
+
+<h2 align="center" style="font-family: 'Inter', sans-serif; color: #58a6ff; margin-top: 40px;">🏆 GitHub Trophies</h2>
+
+<div align="center">
+  <p>View trophies at: https://github-profile-trophy.vercel.app/?username=alediez2048</p>
+</div>
+
+<h2 align="center" style="font-family: 'Inter', sans-serif; color: #58a6ff; margin-top: 40px;">🚀 Featured Projects</h2>
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 40px;">
+  <div style="background-color: #0d1117; border-radius: 10px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="font-family: 'Inter', sans-serif; color: #58a6ff;">AI Football Analyzer</h3>
+    <p style="font-family: 'Poppins', sans-serif; font-size: 14px; color: #8b949e;">An AI-powered tool for analyzing football matches and player performance.</p>
+  </div>
+  <div style="background-color: #0d1117; border-radius: 10px; padding: 20px; width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <h3 style="font-family: 'Inter', sans-serif; color: #58a6ff;">Data Viz Dashboard</h3>
+    <p style="font-family: 'Poppins', sans-serif; font-size: 14px; color: #8b949e;">Interactive data visualization dashboard for complex datasets.</p>
+  </div>
+</div>
+
+<h2 align="center" style="font-family: 'Inter', sans-serif; color: #58a6ff;">📫 Get in Touch</h2>
+
+<p align="center" style="margin-bottom: 20px;">
+  <a href="mailto:alediez2408@gmail.com">Email</a> • 
+  <a href="https://linkedin.com/in/jalejandrodiez">LinkedIn</a> • 
+  <a href="https://twitter.com/@jalejandrodiez">Twitter</a> • 
+  <a href="https://instagram.com/jorgealejandrodiezmagni">Instagram</a>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/jalejandrodiez"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-  <a href="https://linkedin.com/in/jalejandrodiez"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-  <a href="https://www.jorgealejandrodiez.com"><img src="https://img.shields.io/badge/-Website-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white"></a>
-  <a href="https://github.com/alediez2048"><img src="https://img.shields.io/github/followers/alediez2048?label=Follow&style=for-the-badge&logo=github"></a>
-</p>
+<div align="center" style="margin-top: 40px;">
+  <a href="https://www.jorgealejandrodiez.com" style="padding: 10px 20px; background-color: #238636; color: white; text-decoration: none; border-radius: 5px; font-family: 'Inter', sans-serif; font-size: 16px;">Visit my website</a>
+  <a href="https://www.jorgealejandrodiez.com/blog" style="padding: 10px 20px; background-color: #238636; color: white; text-decoration: none; border-radius: 5px; font-family: 'Inter', sans-serif; font-size: 16px;">Read my blog</a>
+</div>
 
----
+<hr style="margin-top: 40px; margin-bottom: 40px; border: 0; border-top: 1px solid #30363d;">
 
-## 🚀 About Me
-
-I'm a passionate web developer early in my career, shaped by collaborations with exceptional engineers, data analysts, and project managers who set high standards for building and maintaining web applications.
-
-### What I'm doing:
-
-- 🧠 Working on **AI Object Detection Model for Football**  
-- 📚 Learning **AI, Data Science, Data Visualization**  
-- 🤝 Collaborating on **AI & Data Science Projects**  
-- ✍️ Writing on my blog → [Blog](https://www.jorgealejandrodiez.com/blog)
-
----
-
-## 💼 Skills & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alediez2048&show_icons=true&theme=github_dark">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alediez2048&theme=github-dark-blue">
-</p>
-
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alediez2048&layout=compact&theme=github_dark">
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alediez2048&theme=darkhub&column=7">
-</p>
-
----
-
-## 🚀 Featured Projects
-
-> ⚠️ These two images currently do NOT exist:  
-> `assets/project1.png`  
-> `assets/project2.png`  
-> Upload them to fix these thumbnails.
-
-### AI Football Analyzer
-![Project1](https://raw.githubusercontent.com/alediez2048/alediez2048/main/assets/project1.png)
-
-### Data Viz Dashboard
-![Project2](https://raw.githubusercontent.com/alediez2048/alediez2048/main/assets/project2.png)
-
----
-
-## 📫 Get in Touch
-
-<p align="center">
-  <a href="mailto:alediez2408@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/jalejandrodiez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/jalejandrodiez"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://instagram.com/jorgealejandrodiezmagni"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
-
----
-
-<p align="center">
-  © 2023 Jorge Alejandro Diez  
+<p align="center" style="font-family: 'Poppins', sans-serif; font-size: 14px; color: #8b949e;">
+  © 2023 Jorge Alejandro Diez. All rights reserved.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alediez2048&label=Profile%20views&color=0e75b6&style=flat">
+  Profile views available at: https://komarev.com/ghpvc/?username=alediez2048
 </p>
