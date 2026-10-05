@@ -1,7 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Jorge%20Alejandro%20Diez&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=AI%20engineer%20%C2%B7%20Austin%2C%20TX&descSize=18&descAlignY=58" alt="Jorge Alejandro Diez, AI engineer in Austin, TX" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:36BCF7&height=150&section=header" alt="" />
+
+<h1 align="center">Jorge Alejandro Diez</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=I+build+AI+agents+that+do+real+work;Led+AI+agent+rollouts+at+T-Mobile+%26+Verizon;Gauntlet+AI+alum;Just+shipped+a+VR+math+game+for+Quest+3" alt="I build AI agents that do real work" />
+  <b>AI engineer in Austin, TX.</b> I build AI agents that do real work.<br />
+  Led AI agent rollouts at T-Mobile and Verizon &middot; Gauntlet AI alum &middot; Just shipped a VR math game for Quest 3
 </p>
 
 <p align="center">
@@ -61,4 +64,4 @@ Plus the AI layer on top: LLM agents, tool calling, RAG, evaluation loops and mu
 
 <p align="center">Open to AI engineering roles focused on agents, automation and applied LLM products. The fastest way to reach me is <a href="https://www.linkedin.com/in/jalejandrodiez/">LinkedIn</a> or <a href="mailto:alediez2408@gmail.com">email</a>.</p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:1e3c72&height=100&section=footer" alt="" />
