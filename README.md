@@ -53,11 +53,6 @@ Plus the AI layer on top: LLM agents, tool calling, RAG, evaluation loops and mu
 
 ## GitHub activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alediez2048&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=alediez2048&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-</p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alediez2048/alediez2048/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alediez2048/alediez2048/output/github-snake.svg" />
