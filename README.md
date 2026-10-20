@@ -34,7 +34,6 @@ I led AI agent and agentic workflow rollouts at T-Mobile and Verizon, then went 
 | [CollabBoard](https://github.com/alediez2048/collabboard) | Real-time collaborative whiteboard with an AI command layer | Next.js, Yjs, Socket.io, Supabase, OpenAI |
 | [AgentForge](https://github.com/alediez2048/agentforge) | Financial analysis agent I added to Ghostfolio, an open source wealth manager | Python, LangGraph, TypeScript |
 | [Synthesis Tutor](https://github.com/alediez2048/synthesis-tutor) | iPad-first AI tutor that teaches fraction equivalence to kids 8 to 12 | TypeScript, React, Claude |
-| [ApplyPilot (fork)](https://github.com/alediez2048/ApplyPilot) | My extensions to an open source job application agent: outreach, CRM dashboard, resume rendering | Python, React-PDF |
 | [Apex Check Deposit](https://github.com/alediez2048/apex) | Mobile check deposit processing with a double-entry ledger | Go, SQLite |
 
 Smaller things: [Retweet Filter](https://github.com/alediez2048/Bookmark-Chrome-Extension) (Chrome extension), [Quick Cam](https://github.com/alediez2048/quick-cam-app) (macOS vertical video recorder), and [Gauntlet](https://alediez2048.github.io/Gauntlet/), a little Metroidvania I made as a work sample.
