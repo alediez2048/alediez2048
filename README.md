@@ -28,17 +28,16 @@ I led AI agent and agentic workflow rollouts at T-Mobile and Verizon, then went 
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [LegacyLens](https://github.com/alediez2048/legacylens) | RAG system that makes 850,000+ lines of COBOL and Fortran searchable in plain English | Python, RAG |
-| [AgentForge](https://github.com/alediez2048/agentforge) | Financial analysis agent built into Ghostfolio, an open source wealth manager | TypeScript, LLM agents |
-| [Ad-Ops Autopilot](https://github.com/alediez2048/ad-ops-autopilot) | Writes, scores and improves Facebook and Instagram ad copy for Varsity Tutors SAT prep | Python, LLM evals |
+| [Vox Terminal](https://github.com/alediez2048/vox-terminal) | Voice-driven coding assistant for Cursor, VS Code and CLI agents | Python, Claude, Whisper, MCP |
+| [LabelCheck](https://github.com/alediez2048/labelcheck) | Checks alcohol labels against TTB COLA applications and routes edge cases to a human | TypeScript, Next.js, Claude vision |
+| [Math Workbench: Airlift](https://github.com/alediez2048/math-workbench-airlift) | Mixed-reality math game for Meta Quest 3, built in five days | Unity, C#, OpenAI Realtime |
 | [CollabBoard](https://github.com/alediez2048/collabboard) | Real-time collaborative whiteboard with an AI command layer | Next.js, Yjs, Socket.io, Supabase, OpenAI |
-| [Apex Check Deposit](https://github.com/alediez2048/apex) | Mobile check deposit processing system built for Apex Fintech | Go |
-| [Synthesis Tutor](https://github.com/alediez2048/synthesis-tutor) | iPad-first AI tutor that teaches fraction equivalence to kids 8 to 12 | TypeScript |
-| [Math Workbench: Airlift](https://github.com/alediez2048/math-workbench-airlift) | Mixed-reality math game for Meta Quest 3 | Unity, C# |
-| [Vox Terminal](https://github.com/alediez2048/vox-terminal) | Voice-driven coding assistant for Cursor, VS Code and CLI agents | Python |
-| [LabelCheck](https://github.com/alediez2048/labelcheck) | Checks alcohol labels against TTB COLA applications and routes edge cases to a human | TypeScript |
+| [AgentForge](https://github.com/alediez2048/agentforge) | Financial analysis agent I added to Ghostfolio, an open source wealth manager | Python, LangGraph, TypeScript |
+| [Synthesis Tutor](https://github.com/alediez2048/synthesis-tutor) | iPad-first AI tutor that teaches fraction equivalence to kids 8 to 12 | TypeScript, React, Claude |
+| [ApplyPilot (fork)](https://github.com/alediez2048/ApplyPilot) | My extensions to an open source job application agent: outreach, CRM dashboard, resume rendering | Python, React-PDF |
+| [Apex Check Deposit](https://github.com/alediez2048/apex) | Mobile check deposit processing with a double-entry ledger | Go, SQLite |
 
-Smaller things: [Retweet Filter](https://github.com/alediez2048/Bookmark-Chrome-Extension) (Chrome extension), [Quick Cam](https://github.com/alediez2048/quick-cam-app) (macOS vertical video recorder), [Resume Formatting Tool](https://github.com/alediez2048/resume-formatting-tool), and [Gauntlet](https://alediez2048.github.io/Gauntlet/), a little Metroidvania I made as a work sample.
+Smaller things: [Retweet Filter](https://github.com/alediez2048/Bookmark-Chrome-Extension) (Chrome extension), [Quick Cam](https://github.com/alediez2048/quick-cam-app) (macOS vertical video recorder), and [Gauntlet](https://alediez2048.github.io/Gauntlet/), a little Metroidvania I made as a work sample.
 
 ## What I build with
 
