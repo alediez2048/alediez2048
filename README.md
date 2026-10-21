@@ -41,7 +41,7 @@ Smaller things: [Retweet Filter](https://github.com/alediez2048/Bookmark-Chrome-
 ## What I build with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,go,cs,swift,react,nextjs,nodejs,rails,supabase,postgres,unity,docker,vercel&perline=7" alt="Python, TypeScript, Go, C#, Swift, React, Next.js, Node, Rails, Supabase, PostgreSQL, Unity, Docker, Vercel" />
+  <img src="https://skillicons.dev/icons?i=py,ts,go,cs,swift,react,nextjs,nodejs,supabase,postgres,unity,docker,vercel&perline=7" alt="Python, TypeScript, Go, C#, Swift, React, Next.js, Node, Supabase, PostgreSQL, Unity, Docker, Vercel" />
 </p>
 
 Plus the AI layer on top: LLM agents, tool calling, RAG, evaluation loops and multi-step workflows.
